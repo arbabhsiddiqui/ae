@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link rel="stylesheet" href="css/stylesheet.css">
 
-    <title>aework, AEWORK, arbab engineering works,pulverizer ,pulverizer manufacture india,daliya machine,machines reparing works,mixer</title>
+    <title>aework, AEWORK, </title>
 	<meta name="keywords" content="pulverizer,daliya machine,machine reparing,mixers">
 	<meta name="description" content="we manufacture industrial machines and reapir them at most reasonable prices">
  </head>
